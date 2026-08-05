@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aashish23-kr/Bits/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Aashish23-kr/Bits/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Aashish23-kr/Bits/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Aashish23-kr/Bits/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aashish23-kr/Bits/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Aashish23-kr/Bits/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -29,4 +31,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aashish23-kr/Bits/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Aashish23-kr/Bits/tree/master/0389-find-the-difference) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Aashish23-kr/Bits/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
