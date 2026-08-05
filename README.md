@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Aashish23-kr/Bits/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Aashish23-kr/Bits/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Aashish23-kr/Bits/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/Aashish23-kr/Bits/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aashish23-kr/Bits/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Aashish23-kr/Bits/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
